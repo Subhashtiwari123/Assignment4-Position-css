@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    
+}
+h1{
+    color: white;
+    letter-spacing: 3px;
+    padding-bottom: 10px;
+   
+}
+
+p{
+    color: white;
+  
+}
+.container{
+    padding: 200px;
+    position: absolute;
+    width: 70%;
+}
+.logo{
+    height: 400px;
+    width: 400px;
+    float: right;
+    display: block;
+    margin-top: 200px;
+    padding-right: 20px;
+    
+}
+button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 8px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: blue;
+  }
+  
